@@ -1,5 +1,5 @@
 /*
-Sean Stasny
+Sean Staz
 CSC 2134
 Program MPH 
 Program MPH reads miles and hours and prints miles per hour.
